@@ -1,2 +1,2 @@
 # ClojureSandbox
-またClojure始めるマン、Sandboxマン
+はじめてのClojure読みながらなぐり書きしたコードを貼り付けるリポ
